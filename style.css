@@ -1,6 +1,6 @@
 body { 
     font-family: Arial, Helvetica, sans-serif; 
-    background-color:  rgba(5, 65, 5); 
+    background-color: #1F2937;
 } 
 
 ul { 
@@ -9,7 +9,7 @@ ul {
 
 .header { 
     display: flex; 
-    background-color: rgba(5, 65, 5);
+    background-color: #1F2937;
     color: white;  
     justify-content: space-around; 
     
@@ -35,7 +35,7 @@ h1 {
     font-weight: 800;
 } 
 .content-one button { 
-    background-color: rgb(155, 155, 10); 
+    background-color: #3882F6; 
     color: white; 
     height: fit-content; 
     width: fit-content; 
