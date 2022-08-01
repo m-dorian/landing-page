@@ -55,4 +55,48 @@ h1 {
     flex-wrap: wrap; 
     width: 380px; 
     height: auto;
+} 
+.card { 
+    border: 3px solid #3882F6; 
+    border-radius: 10px; 
+    height: 120px; 
+    width: 105px; 
+    flex: 0 1 auto;
+} 
+.card-n-text { 
+    display: flex; 
+    flex-direction: column; 
+    width: 100px; 
+    align-items: center; 
+    background-color: white;
+} 
+.content-two { 
+    display: flex; 
+    align-items: center;  
+    flex-direction: column; 
+    gap: 50px; 
+    background-color: white;  
+    margin-top: 60px;
+    height: 350px; 
+    padding-top: 50px;
+   
+}
+.cards { 
+    display: flex; 
+    flex-wrap: wrap; 
+    height: 100px; 
+    gap: 80px;
+} 
+.card-text { 
+    display: flex; 
+    justify-content: center ; 
+    flex-wrap: wrap; 
+    font-size: 14px; 
+    text-align: center;
+    
+} 
+.some-information { 
+    font-size: 30px; 
+    font-weight: bold; 
+    color: #1F2937;
 }
