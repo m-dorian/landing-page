@@ -116,4 +116,36 @@ h1 {
     font-style: italic; 
     font-weight: lighter; 
     color: #1f29377c;
+} 
+.sign-up button { 
+    background-color: #3882F6; 
+    color: white; 
+    height: fit-content; 
+    width: fit-content; 
+    padding: 5px 15px 5px 15px; 
+    border-radius: 8px; 
+    border: 2px solid white;
+} 
+.content { 
+    background-color: #3882F6; 
+    display: flex; 
+    justify-content: center; 
+    gap: 20px; 
+    border-radius: 4px;  
+    padding: 40px; 
+    width: 600px;
+}
+.text-one  { 
+    color: white; 
+    font-weight: 900;
+} 
+.text-two { 
+    color:#1f2937b6
+} 
+.sign-up { 
+    background-color: white; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 50px;
 }
