@@ -148,4 +148,14 @@ h1 {
     justify-content: center; 
     align-items: center; 
     padding: 50px;
+} 
+.copyright::after { 
+    content: '\00A9';
+} 
+.footer { 
+    display: flex; 
+    justify-content: center; 
+    color: white; 
+    padding: 30px; 
+    align-items: center;
 }
